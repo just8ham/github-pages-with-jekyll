@@ -1,5 +1,5 @@
 ---
-title: "About me"
+title: "About Kevin May"
 ---
 
-Justin Ham
+
